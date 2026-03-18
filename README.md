@@ -9,21 +9,8 @@
 
 
 ## 📦 Installation (Linux / Windows)
+- git clone https://github.com/CyperHyso/HysooZ.git
+- cd ip_checker
+- python ip_checker.py ( Windows )
+- python3 ip_checker.py ( Linux )
 
-Windows :
-
-git clone https://github.com/CyperHyso/HysooZ.git
-
-cd ip_checker
-
-python ip_checker.py
-
-
-
-Linux : 
-
-git clone https://github.com/CyperHyso/HysooZ.git
-
-cd ip_checker
-
-python3 ip_checker.py
